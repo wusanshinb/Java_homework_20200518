@@ -11,3 +11,5 @@
 
 3.LetsRentCars中包括了main方法，用于租车程序的启动。
 
+**三个UML类图为：Renter.uml、Cars.uml、LetsRentCars.uml
+
