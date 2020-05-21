@@ -118,6 +118,10 @@ public class Renter {
                 System.out.println("序号" + (i + 1) + "(" + allCars[i].carName + ")" + "的租用数目为：" + rentDay[i]);
             }
         }
+        String str1 = "\0";
+        do {
+            str1 = new Scanner(System.in).nextLine();
+        } while (!str1.equals(""));
     }
 
     /**
